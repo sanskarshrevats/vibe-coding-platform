@@ -1,3 +1,6 @@
+Hy everyone, I'm just checking. If you can help to improve this project then do this. I'm a beginner. Please give your important contribution to this project. Let's upgrade this project to next level. This project is just a base. Make this base strong. You can add your api key , some ai model and api keys. Make this for those who don't want to pay but also want to put there ideas in reality. Make everything free for everyone friends.
+
+
 # Vibe Coding Platform
 
 An end-to-end coding platform where users enter text prompts and an AI agent generates full-stack applications in a sandboxed environment with live preview, file explorer, and command logs.
